@@ -1,1 +1,2 @@
-flius-test-gateway
+flius-demo
+flius-project
