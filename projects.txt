@@ -1,4 +1,1 @@
-flius-demo
-flius-project
 flius-test-gateway
-flius-asm-test
